@@ -5,6 +5,7 @@
 * Sat-Sun : 12pm-10pm
 
 
+![](img/food.jpg)
 
 ## Pre-Thanksgiving Super Special Menu!!!!!!
 1. Crespelles Affumincado
