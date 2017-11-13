@@ -1,5 +1,7 @@
 # the-best-restaurant-ever
 
+![](img/food.jpg)
+
 ## Pre-Thanksgiving Super Special Menu!!!!!!
 1. Crespelles Affumincado
 2. Bruschetta Basillica
