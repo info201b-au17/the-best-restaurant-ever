@@ -1,5 +1,11 @@
 # the-best-restaurant-ever
 
+## Our Hours:
+* MTWTHF : 10am-9pm
+* Sat-Sun : 12pm-10pm
+
+
+
 ## Pre-Thanksgiving Super Special Menu!!!!!!
 1. Crespelles Affumincado
 2. Bruschetta Basillica
